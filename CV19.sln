@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{6F1E2338
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CV19Console", "CV19Console\CV19Console.csproj", "{A988F62B-AABB-476D-B6AF-D738AC684527}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CV19WPFTests", "CV19WPFTests\CV19WPFTests.csproj", "{A8EDE839-1D6E-4557-9668-892CDF4ABAEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +25,17 @@ Global
 		{A988F62B-AABB-476D-B6AF-D738AC684527}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A988F62B-AABB-476D-B6AF-D738AC684527}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A988F62B-AABB-476D-B6AF-D738AC684527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8EDE839-1D6E-4557-9668-892CDF4ABAEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8EDE839-1D6E-4557-9668-892CDF4ABAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8EDE839-1D6E-4557-9668-892CDF4ABAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8EDE839-1D6E-4557-9668-892CDF4ABAEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{A988F62B-AABB-476D-B6AF-D738AC684527} = {6F1E2338-661F-465D-9828-6B79F611762C}
+		{A8EDE839-1D6E-4557-9668-892CDF4ABAEC} = {6F1E2338-661F-465D-9828-6B79F611762C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8832CC30-028C-408F-96B4-9BAFEF740410}
